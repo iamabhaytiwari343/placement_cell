@@ -1,4 +1,3 @@
-# Placement Website IIITL
-https://placements.iiitl.ac.in/
+# Placement Website BITD
 
-Official website of Placement Cell, IIIT Lucknow.
+
