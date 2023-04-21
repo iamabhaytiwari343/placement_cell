@@ -25,7 +25,7 @@ const Why = (props) => {
         <p>
           The Courses are finely refined and fabricated to meet the needs of the
           versatile industry and latest research areas. The highly qualified,
-          intellectual and technically proficient faculty at IIIT-Lucknow fuel
+          intellectual and technically proficient faculty at BIT Deoghar fuel
           the learning process in turn igniting the minds.
         </p>
         <p>
@@ -74,12 +74,8 @@ const Why = (props) => {
         </p>
         <h2>Coders At Work</h2>
         <p>
-          Our students take part in many renowned programming competitions like{" "}
-          <strong>ACM-ICPC</strong> and <strong>Capture the Flag(CTF)</strong>.
-        </p>
-        <p>
-          And our students are honing their skills on websites like Topcoder,
-          SPOJ, CodeChef etc. in various languages.
+          our students are honing their skills on websites like Topcoder,
+          SPOJ, CodeChef , Leetcode , Hackerank  etc. in various languages.
         </p>
       </div>
     </div>

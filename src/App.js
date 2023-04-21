@@ -9,7 +9,7 @@ import OurRecruiters from "./components/OurRecruiters";
 import PlacementStats2020 from "./components/PlacementStats2020";
 import PlacementStats2021 from "./components/PlacementStats2021";
 import Procedure from "./components/Procedure";
-import WhyIiitl from "./components/WhyIiitl";
+import WhyIiitl from "./components/WhyBITD";
 import ContactUs from "./components/ContactUs";
 import DirectorMessage from "./components/DirectorMessage";
 import TpoMessage from "./components/TpoMessage";
