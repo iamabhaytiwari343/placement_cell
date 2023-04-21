@@ -1,5 +1,5 @@
 # Placement Website BITD
 # home Page
-image.png
+Markup : ![picture alt](./readme_images/one.png "Title is optional")
 
 
