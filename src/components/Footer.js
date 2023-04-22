@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import brochurePdf from "../assets/demo.pdf";
-import jnf from "../assets/demo.docx";
+import brochurePdf from "../assets/Demo.pdf";
+import jnf from "../assets/Demo.docx";
 
 
 const footer = () => {
