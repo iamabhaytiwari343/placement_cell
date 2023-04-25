@@ -9,7 +9,7 @@ import OurRecruiters from "./components/OurRecruiters";
 import PlacementStats2020 from "./components/PlacementStats2020";
 import PlacementStats2021 from "./components/PlacementStats2021";
 import Procedure from "./components/Procedure";
-import WhyIiitl from "./components/WhyBITD";
+import WhyBITD from "./components/WhyBITD";
 import ContactUs from "./components/ContactUs";
 import DirectorMessage from "./components/DirectorMessage";
 import TpoMessage from "./components/TpoMessage";
@@ -41,7 +41,7 @@ class App extends Component {
             <Route path="/placement-stats-2019" exact component={Placement2019} />
             <Route path="/contact-us" exact component={ContactUs} />
             <Route path="/procedure-and-policies" exact component={Procedure} />
-            <Route path="/why-iiitl" exact component={WhyIiitl} />
+            <Route path="/why-iiitl" exact component={WhyBITD} />
             <Route path="/message/director" exact component={DirectorMessage} />
             <Route path="/message/tpo" exact component={TpoMessage} />
             <Route path="/about-us" exact component={AboutUs} />
