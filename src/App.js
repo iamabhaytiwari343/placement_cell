@@ -21,7 +21,7 @@ import Page404 from "./components/404";
 import AlumniSpeaks from "./components/AlumniSpeaks";
 import Placement2019 from './components/PlacementStats2019';
 import PlacementStats2022 from './components/PlacementStats2022'
-import Login from "./components/Login";
+//import Login from "./components/Login";
 
 class App extends Component {
   render() {
@@ -33,7 +33,7 @@ class App extends Component {
             <Route path="/alumni-speaks" exact component={AlumniSpeaks} />
             <Route path="/facilities" exact component={Facilities} />
             <Route path="/" exact component={Home} />
-            <Route path="/login" exact component={Login} />
+            {/* <Route path="/login" exact component={Login} /> */}
             <Route path="/our-recruiters" exact component={OurRecruiters} />
             <Route path="/placement-stats-2022" exact component={PlacementStats2022} />
             <Route path="/placement-stats-2021" exact component={PlacementStats2021} />
