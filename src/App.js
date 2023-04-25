@@ -41,7 +41,7 @@ class App extends Component {
             <Route path="/placement-stats-2019" exact component={Placement2019} />
             <Route path="/contact-us" exact component={ContactUs} />
             <Route path="/procedure-and-policies" exact component={Procedure} />
-            <Route path="/why-iiitl" exact component={WhyBITD} />
+            <Route path="/why-bitd" exact component={WhyBITD} />
             <Route path="/message/director" exact component={DirectorMessage} />
             <Route path="/message/tpo" exact component={TpoMessage} />
             <Route path="/about-us" exact component={AboutUs} />
