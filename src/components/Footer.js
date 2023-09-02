@@ -65,7 +65,7 @@ const footer = () => {
 
       <div className="footer-copyright">
         <p>
-          ALL RIGHTS RESERVED © 2021. <strong>BIT Mesra Deoghar Campus.</strong> (Developed
+          ALL RIGHTS RESERVED © 2022. <strong>BIT Mesra Deoghar Campus.</strong> (Developed
           & Managed By -{" "}
           <a href="https://www.linkedin.com/in/abhay-tiwari-22063023b/" target="none">
             Abhay Tiwari

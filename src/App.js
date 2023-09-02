@@ -26,7 +26,7 @@ import PlacementStats2022 from './components/PlacementStats2022'
 class App extends Component {
   render() {
     return (
-      <Fragment>
+      <>
         <Navbar />
         <div className="main-page">
           <Switch>
@@ -53,7 +53,7 @@ class App extends Component {
         <div className="footer-outer-wrapper">
           <Footer />
         </div>
-      </Fragment>
+      </>
     );
   }
 }
